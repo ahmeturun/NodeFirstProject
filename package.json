@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ahmeturun/NodeFirstProject/issues"
   },
-  "homepage": "https://github.com/ahmeturun/NodeFirstProject#readme"
+  "homepage": "https://github.com/ahmeturun/NodeFirstProject#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
